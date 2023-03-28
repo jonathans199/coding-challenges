@@ -1,0 +1,2 @@
+const reverseInt = require('./index')
+
